@@ -1,3 +1,5 @@
+# Docker Compose to help on Kafka and Zookeeper Containers
+
 #### In order to create a local Kafka enviroment using docker-compose you just need to run the commmand bellow on your docker-compose folder.
 
 docker-compose up -d
